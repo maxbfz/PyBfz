@@ -1,4 +1,4 @@
-# hallo Bfz
+# Hallo Bfz
 
 In diesem Github repository findest du alles nötige um ein binder repository zu erstellen.
 
