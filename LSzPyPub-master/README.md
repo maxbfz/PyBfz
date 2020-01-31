@@ -1,6 +1,6 @@
-# hello ITdigital
+# hallo Bfz
 
-In this GitHub repository you will find everything used to create our binder repository.
+In diesem Github repository findest du alles nötige um ein binder repository zu erstellen.
 
 https://mybinder.org/v2/gh/LSzCode/LSzPyPub/master
 
