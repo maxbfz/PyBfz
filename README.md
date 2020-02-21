@@ -4,7 +4,7 @@ In diesem Github repository findest du alles nötige um ein binder repository zu
 
 https://mybinder.org
 
-https://mybinder.org/v2/gh/maxbfz/PyBfz/9cb3483a7deaa3693f8ef1f528647cfe986eff9a
+https://mybinder.org/v2/gh/maxbfz/PyBfz/master
 
 Please create own public GitHub repositories to submit solutions for our advanced tasks. 
 
